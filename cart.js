@@ -8,15 +8,16 @@ switch (button) {
         console.log("Check Balance");
         break;
     case 2:
-        console.log("Withdraw nit available Money");
+        console.log("Withdraw Money");
         break;
     case 3:
-        console.log("Available");
+        console.log("Available Balance");
         break;
     case 4:
-        console.log("Deposit");
+        console.log("Deposit Money");
         break;
     default:
         console.log("Invalid option");
 }
 
+console.log("-----Langauge Selection-----")
