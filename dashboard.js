@@ -82,21 +82,21 @@ switch (Menu) {
 }
 
 
-console.log("---Calculater----");
+console.log("---Calculater added----");
 
 let a=20;
 let b=10;
 let Arithmatic="+";
 switch(Arithmatic){
     case "+":
-        console.log("Result Addition:"+ (a+b));
+        console.log("Result :"+ (a+b));
         break;
     case "-":
-        console.log("Result subtraction:"+ (a-b));
+        console.log("Result :"+ (a-b));
         break;
     case "*":
-        console.log("Result multiplication:"+(a*b));
+        console.log("Result :"+(a*b));
         break;
     default:
-        console.log("Invalid operation")
+        console.log("Invalid ")
 }
